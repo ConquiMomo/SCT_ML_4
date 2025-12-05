@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Data and models (large files)
+data/
+models/
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
