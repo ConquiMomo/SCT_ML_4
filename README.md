@@ -46,7 +46,6 @@ SCT_ML_4/
 └── LICENSE
 
 
-*(Note: extend this if you add data folders, notebooks, saved models, etc.)*
 
 ## ✅ Dependencies & Setup
 
@@ -108,6 +107,7 @@ Outputs include accuracy metrics, confusion matrix, and random batch visualizati
 
 ## 📜 License
 This project is licensed under the MIT License — see the LICENSE file for details.
+
 
 
 
